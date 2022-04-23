@@ -43,7 +43,7 @@ int main() {
   /*
 
   ++i can be slightly faster than i++ because i++ requires a 
-local copy(extra copy) of the value of i before it gets 
+local copy(extra copy which will be thrown away) of the value of i before it gets 
 incremented while ++i never does.
 
 
