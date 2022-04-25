@@ -234,13 +234,15 @@ public:
 
 
 // but it is sorting again and again and time complexity increases so it'll be better if I use sort at the end and just sort nums1 vector.
-// time complexity will be O(m+n) but here it maybe O(n^2)
+// time complexity will be O(m+n) but here it maybe O(n^2logn) as sorting takes.
 
 
 
 
 
-// Final solution
+
+// Final solution (though its not best also)
+
 
 
 class Solution {
@@ -281,6 +283,87 @@ public:
             
     }
 };
+
+
+// It is still not best so I'll have to think about, but below are some tricks you can try.
+
+
+
+
+
+// Now come the twist, if we have to actually sort so can we just append arr2 in the back
+
+class Solution {
+public:
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        
+        int arr1pointer = 0, arr2pointer = 0, findex=0;
+        
+        
+        for(int i=m; i<m+n; i++){
+            nums1[i] = nums2[i-m];
+        }
+        
+        //sort nums1 in the end
+        sort(nums1.begin(), nums1.end());
+
+            
+    }
+};
+
+
+
+
+
+// find few solutions from community, I think it is good one
+/*
+Idea
+Simply pop values from the back of nums1 or num2 based on whichever is larger and place it in the correct target location of nums1. 
+Once all the nums2 elements have been inserted in nums1 we're done.
+*/
+
+class Solution {
+public:
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        
+        for (int target = m + n; n; ) {
+            nums1[--target] = (m && nums1[m - 1] > nums2[n - 1]) ? nums1[--m] : nums2[--n];
+        }       
+    }
+};
+
+
+
+
+// for understanding here is the same code
+
+
+// This is the code I can assume good and will fastest among all
+
+
+class Solution {
+public:
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        
+        while(n>0){
+            int lastindex = m+n-1;
+            if(m && nums1[m-1] > nums2[n-1]){
+                nums1[lastindex] = nums1[m-1];
+                --m;
+                --lastindex;
+            }else{
+                nums1[lastindex] = nums2[n-1];
+                --lastindex;
+                --n;
+            }
+        }       
+    }
+};
+
+
+// I was using the same logic from first index but the problem was with pointer, 
+// because array is in non-decreasing order I should have start from the last.
+// Let's not think much and stick with this code only.
 
 
 // Here, time complexity is also O(m+n) as recommended.
