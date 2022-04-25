@@ -121,3 +121,171 @@ int main() {
   }
   cout << "\n\n\n\n\n";
 }
+
+
+
+
+// without comments and extra conditions added
+
+class Solution {
+public:
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        
+        int arr1pointer = 0, arr2pointer = 0, findex=0;
+        
+        //base condition
+        if(nums1.empty()){
+            nums1 = nums2;
+        }else{
+            while(arr1pointer < m && !nums2.empty()){
+              if(nums1[arr1pointer] <= nums2[arr2pointer]){
+                  nums1[findex] = nums1[arr1pointer];
+                  ++findex;
+                  ++arr1pointer;
+              }else{
+                  int temp = nums2[arr2pointer];
+                  nums2[arr2pointer] = nums1[findex];
+                  nums1[findex] = temp;
+                  ++findex;
+                  ++arr1pointer;
+              }
+            }
+            
+            // num2 is already sorted so just add the rest number in nums1
+            while(arr2pointer < n){
+              nums1[findex] = nums2[arr2pointer];
+              ++findex;
+              ++arr2pointer;
+            }
+        }
+
+            
+    }
+};
+
+
+// but here it failed as when the first array element will be greater it creates error
+// for this input
+
+/*
+
+Input:
+[4,5,6,0,0,0]
+3
+[1,2,3]
+3
+
+
+Expectd Output:
+[1,2,3,4,5,6]
+
+My Output:
+[1,4,5,6,2,3]
+
+
+
+*/
+
+
+
+
+
+
+// Sorted nums2 after changing position
+
+class Solution {
+public:
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        
+        int arr1pointer = 0, arr2pointer = 0, findex=0;
+        
+        //base condition
+        if(nums1.empty()){
+            nums1 = nums2;
+        }else{
+            while(arr1pointer < m && !nums2.empty()){
+              if(nums1[arr1pointer] <= nums2[arr2pointer]){
+                  nums1[findex] = nums1[arr1pointer];
+                  ++findex;
+                  ++arr1pointer;
+              }else{
+                  int temp = nums2[arr2pointer];
+                  nums2[arr2pointer] = nums1[findex];
+                  nums1[findex] = temp;
+                  ++findex;
+                  ++arr1pointer;
+                  
+                  //sort nums2
+                  sort(nums2.begin(), nums2.end());
+              }
+            }
+            
+            // num2 is already sorted so just add the rest number in nums1
+            while(arr2pointer < n){
+              nums1[findex] = nums2[arr2pointer];
+              ++findex;
+              ++arr2pointer;
+            }
+        }
+
+            
+    }
+};
+
+
+// but it is sorting again and again and time complexity increases so it'll be better if I use sort at the end and just sort nums1 vector.
+// time complexity will be O(m+n) but here it maybe O(n^2)
+
+
+
+
+
+// Final solution
+
+
+class Solution {
+public:
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        
+        int arr1pointer = 0, arr2pointer = 0, findex=0;
+        
+        //base condition
+        if(nums1.empty()){
+            nums1 = nums2;
+        }else{
+            while(arr1pointer < m && !nums2.empty()){
+              if(nums1[arr1pointer] <= nums2[arr2pointer]){
+                  nums1[findex] = nums1[arr1pointer];
+                  ++findex;
+                  ++arr1pointer;
+              }else{
+                  int temp = nums2[arr2pointer];
+                  nums2[arr2pointer] = nums1[findex];
+                  nums1[findex] = temp;
+                  ++findex;
+                  ++arr1pointer;
+              }
+            }
+            
+            // num2 is already sorted so just add the rest number in nums1
+            while(arr2pointer < n){
+              nums1[findex] = nums2[arr2pointer];
+              ++findex;
+              ++arr2pointer;
+            }
+        }
+        
+        //sort nums1 in the end
+        sort(nums1.begin(), nums1.end());
+
+            
+    }
+};
+
+
+// Here, time complexity is also O(m+n) as recommended.
+
+// Hope you like the explanation
+
+
+// Happy coding, A R
