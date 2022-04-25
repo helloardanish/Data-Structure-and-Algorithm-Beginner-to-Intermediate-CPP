@@ -52,7 +52,8 @@ nums2.length == n
 
 Follow up: Can you come up with an algorithm that runs in O(m + n) time?
 
-*
+
+*/
 
 
 
@@ -165,7 +166,7 @@ public:
 
 
 // but here it failed as when the first array element will be greater it creates error
-// for this input
+// for below input
 
 /*
 
@@ -241,7 +242,7 @@ public:
 
 
 
-// Final solution (though its not best also)
+// I tried again and came up with this one without thinking much(my brain stopped working), just for you guys code it wrost)
 
 
 
@@ -286,7 +287,6 @@ public:
 
 
 // It is still not best so I'll have to think about, but below are some tricks you can try.
-
 
 
 
