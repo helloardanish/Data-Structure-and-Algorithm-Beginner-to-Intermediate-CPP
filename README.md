@@ -13,7 +13,7 @@ Data structures and algorithms in c++
 | 88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./Arrays/MergeSortedArray.cpp) |Easy |
 | 27| [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./Arrays/RemoveElement.cpp) |Easy |
 | 26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Arrays/RemoveDuplicatesfromSortedArray.cpp) |Easy |
-
+|1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [C++](./Arrays/CheckIfNandItsDoubleExist.cpp) |Easy |
 <!--
 | | []() | [C++](./Arrays/) | |
 
