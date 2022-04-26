@@ -11,8 +11,9 @@ Data structures and algorithms in c++
 |977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./Arrays/SquaresofaSortedArray.cpp) |Easy |
 | 1089| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [C++](./Arrays/DuplicateZeros.cpp) |Easy |
 | 88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./Arrays/MergeSortedArray.cpp) |Easy |
+| 27| [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./Arrays/RemoveElement.cpp) |Easy |
 <!--
-| | []() | []() | |
+| | []() | [C++](./Arrays/) | |
 
 | | []() | []() | |
 
