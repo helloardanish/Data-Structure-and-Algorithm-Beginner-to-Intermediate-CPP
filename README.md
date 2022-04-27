@@ -15,6 +15,7 @@ Data structures and algorithms in c++
 | 26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Arrays/RemoveDuplicatesfromSortedArray.cpp) |Easy |
 |1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [C++](./Arrays/CheckIfNandItsDoubleExist.cpp) |Easy |
 |941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [C++](./Arrays/ValidMountainArray.cpp) | Easy|
+| 1299| [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [C++](./Arrays/ReplaceElementswithGreatestElementonRightSide.cpp) |Easy |
 
 
 <!--
