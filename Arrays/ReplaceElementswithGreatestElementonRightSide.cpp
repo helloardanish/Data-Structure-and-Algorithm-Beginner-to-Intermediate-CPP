@@ -62,9 +62,31 @@ public:
 };
 
 
-
 // It was a tricky question. I always tracked the max value from second last index because last item will always be -1.
 // Also if there will be arr of len 1 the loop condition will never run as it will be false at the beginning.
+
+
+
+// we can also set -1 as max since we know numbers in array is always positive.
+// It will fail for negative test cases but we know numbers is always positive.
+
+
+class Solution {
+public:
+    vector<int> replaceElements(vector<int>& arr) {
+        int lastindex = arr.size()-1;
+        int maxval = -1;
+        for(int i=lastindex; i>=0; i--){
+            int temp = arr[i];
+            arr[i] = maxval;
+            if(temp > maxval){
+                maxval = temp;
+            }
+        }
+        
+        return arr;
+    }
+};
 
 // Happy Coding,
 // A R
