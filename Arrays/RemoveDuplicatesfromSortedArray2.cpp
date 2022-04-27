@@ -91,6 +91,61 @@ public:
 
 
 
+// Minimized code, same logic
+
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+      int index=1;
+      for(int i=1; i<nums.size(); i++){
+        if(nums[i-1] != nums[i]){
+          nums[index] = nums[i];
+          index++;
+        }
+      }  
+    }
+};
+
+
+
+
+// With explanation from leetcode
+
+
+public int removeDuplicates(int[] nums) {
+        
+  // Check for edge cases.
+  if (nums == null) {
+      return 0;
+  }
+  
+  // Use the two pointer technique to remove the duplicates in-place.
+  // The first element shouldn't be touched; it's already in its correct place.
+  int writePointer = 1;
+  // Go through each element in the Array.
+  for (int readPointer = 1; readPointer < nums.length; readPointer++) {
+      // If the current element we're reading is *different* to the previous
+      // element...
+      if (nums[readPointer] != nums[readPointer - 1]) {
+          // Copy it into the next position at the front, tracked by writePointer.
+          nums[writePointer] = nums[readPointer];
+          // And we need to now increment writePointer, because the next element
+          // should be written one space over.
+          writePointer++;
+      }
+  }
+  
+  // This turns out to be the correct length value.
+  return writePointer;
+}
+
+
+
+// Surprised,ain't you? ;).
+
+// In-place operations are valuable when appropriate because they reduce the space complexity of an algorithm. 
+// Instead of requiring O(N)O(N) space, we can reduce it down to O(1)O(1).
+
 
 // Happy Coding,
 // A R
