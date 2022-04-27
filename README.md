@@ -20,6 +20,7 @@ Data structures and algorithms in c++
 |283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./Arrays/MoveZeroes.cpp) | Easy|
 |905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [C++](./Arrays/SortArrayByParity.cpp) | Easy|
 | 27| [Remove Element 2 Pointer](https://leetcode.com/problems/remove-element/) | [C++](./Arrays/RemoveElement2.cpp) |Easy |
+| 1051| [Height Checker](https://leetcode.com/problems/height-checker/) | [C++](./Arrays/HeightChecker.cpp) | Easy|
 
 <!--
 | | []() | [C++](./Arrays/) | |
