@@ -23,6 +23,7 @@ Data structures and algorithms in c++
 | 1051| [Height Checker](https://leetcode.com/problems/height-checker/) | [C++](./Arrays/HeightChecker.cpp) | Easy|
 | 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./Arrays/ThirdMaximumNumber.cpp) | Easy|
 | #AR| Third Largest From The Beginning | [C++](./Arrays/ThirdMaximumFromBeginning.cpp) | Easy|
+|448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./Arrays/FindAllNumbersDisappearedinanArray.cpp) |Easy |
 
 <!--
 | | []() | [C++](./Arrays/) | |
