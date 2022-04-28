@@ -1,4 +1,4 @@
-// Third maximum number in an array and if third maximum doesn't exist return highest number in array.
+// Third maximum number in an array from the beginning and if third maximum doesn't exist return highest number in array.
 
 
 /*
