@@ -21,6 +21,8 @@ Data structures and algorithms in c++
 |905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [C++](./Arrays/SortArrayByParity.cpp) | Easy|
 | 27| [Remove Element 2 Pointer](https://leetcode.com/problems/remove-element/) | [C++](./Arrays/RemoveElement2.cpp) |Easy |
 | 1051| [Height Checker](https://leetcode.com/problems/height-checker/) | [C++](./Arrays/HeightChecker.cpp) | Easy|
+| 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./Arrays/ThirdMaximumNumber.cpp) | Easy|
+| #AR| Third Largest From The Beginning | [C++](./Arrays/ThirdMaximumFromBeginning.cpp) | Easy|
 
 <!--
 | | []() | [C++](./Arrays/) | |
