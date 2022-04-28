@@ -108,7 +108,7 @@ public:
 
 
 
-// I also created my own set of problems while solving this problem. Please check [here](ThirdMaximumFromBeginning.cpp).
+// I also created my own set of problems while solving this problem. Please check ThirdMaximumFromBeginning.cpp file name in array sets.
 
 
 
