@@ -25,8 +25,17 @@ Data structures and algorithms in c++
 | #AR| Third Largest From The Beginning | [C++](./Arrays/ThirdMaximumFromBeginning.cpp) | Easy|
 |448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./Arrays/FindAllNumbersDisappearedinanArray.cpp) |Easy |
 |977 | [Squares of a Sorted Array : O(n) time](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./Arrays/SquaresofaSortedArray2.cpp) |Easy |
+
+
+## Stack and Queue
+
+|  #  | Title           |  Solution       | Difficulty    | 
+|-----|---------------- | --------------- | ------------- |
+| 622.| [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [C++](./Stack_&_Queue/DesignCircularQueue.cpp) | Medium|
+
 <!--
 | | []() | [C++](./Arrays/) | |
+| | []() | [C++](./Stack_&_Queue/) | |
 
 | | []() | []() | |
 
