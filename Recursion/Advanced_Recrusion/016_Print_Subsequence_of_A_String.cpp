@@ -1,7 +1,7 @@
 // Print all subsequence of a given string
 
-// input abc >> output a,b,c,ab,bc,ac,abc (all 7(2^length of string-1) subsequence)
-
+// input abc >> output a,b,c,ab,bc,ac,abc (all 8(2^length of string, one will last empty string which is null base condition) subsequence)
+// originally we can say the answer will always be 2^length of string - 1
 
 
 #include <iostream>
