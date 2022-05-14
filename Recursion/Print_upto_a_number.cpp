@@ -125,3 +125,23 @@ int main(){
 }
 
 
+
+
+// for decreasing order
+
+#include <iostream>
+
+using namespace std; 
+
+void printuptoanumber(int n){
+  if(n==0) return;
+  cout << n <<" ";
+  printuptoanumber(n-1); 
+  cout << "It will print when all recrusive call ended with base condition. N times." << endl;
+  return; // it is optional, because void don't return anything
+}
+int main(){
+  int n=10;
+  printuptoanumber(n);
+  cout <<endl;
+}
