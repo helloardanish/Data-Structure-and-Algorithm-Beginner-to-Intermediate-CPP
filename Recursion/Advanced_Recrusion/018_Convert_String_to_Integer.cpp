@@ -70,3 +70,10 @@ int main(){
   cout << input;
   cout << endl;
 }
+
+
+
+// it will work only for specific inputs
+
+// if input will be "-2324", "+1242", "wfq3431", "12331dw", "12435342535352523525325"(string can hold large character, integer will be out of range).
+// Above code will not be able to handle these cases. So we assume input will be given only numcharacter.
