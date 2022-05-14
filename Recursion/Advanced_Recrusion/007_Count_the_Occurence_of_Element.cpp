@@ -33,6 +33,37 @@ int main(){
 // very simple
 
 
+// another approach
+
+#include <iostream>
+#include <vector>
+
+using namespace std; 
+
+int countpresentnumber(int arr[], int n, int k, int i){
+  // base condition
+  if(i==n){
+    return 0;
+  }
+  // calculation
+  if(arr[i]==k){
+    return 1+countpresentnumber(arr, n, k, i+1);
+  }else{
+    return countpresentnumber(arr, n, k, i+1);
+    // same as 0+countpresentnumber(arr, n, k, i+1)
+  }
+}
+int main(){
+  int n=8;
+  int arr[] ={5, 6, 6, 7, 8, 6, 8, 6};
+  int k=6;
+  int ans = countpresentnumber(arr, n, k, 0);
+  cout << ans;
+  cout <<endl;
+}
+
+
+
 
 
 // pass by reference
