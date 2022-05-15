@@ -18,6 +18,65 @@ https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-
 
 
 
+#include <iostream>
+#include <vector>
+
+using namespace std; 
+
+int getFirstIndex(vector<int> &nums,int target){
+  int s=0;
+  int e = nums.size()-1;
+  int ans = -1;// because value can be found more than once so we will update the ans
+  while(s<=e){
+    int mid = s+(e-s)/2;
+    if(nums[mid]==target){
+      ans = mid;
+      // check left if there is any number present which is same
+      e = mid-1;
+    }else if(target < nums[mid]){
+      e = mid-1;
+    }else{
+      s = mid+1;
+    }
+  }
+  return ans;
+}
+
+int getLastIndex(vector<int> &nums,int target){
+  int s=0;
+  int e = nums.size()-1;
+  int ans = -1;// because value can be found more than once so we will update the ans
+  while(s<=e){
+    int mid = s+(e-s)/2;
+    if(nums[mid]==target){
+      ans = mid;
+      // check left if there is any number present which is same
+      s = mid+1;
+    }else if(target < nums[mid]){
+      e = mid-1;
+    }else{
+      s = mid+1;
+    }
+  }
+  return ans;
+}
+
+
+
+int main(){
+  vector<int> nums ={1, 3, 5, 5, 5, 5, 67, 123, 125};
+  int numsize = nums.size();
+  int t=5;
+  int firstindex = getFirstIndex(nums, t);
+  cout <<"First occurence " << firstindex << endl;
+  int lastindex = getLastIndex(nums, t);
+  cout <<"Last occurence " << lastindex << endl;
+}
+
+
+
+
+
 
 
 
