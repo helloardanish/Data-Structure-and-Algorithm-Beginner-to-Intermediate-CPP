@@ -62,17 +62,14 @@ int towerofhanoi(int nums[], int n){
   if(n==0){
     return 0;
   }
-  if(n==1){
-    return 1;
-  }
   
-  return towerofhanoi(nums, n-1)+1+towerofhanoi(nums, n-2);
+  return towerofhanoi(nums, n-1)+1+towerofhanoi(nums, n-1);
 }
 
 
 int main(){
   int nums[]={4,3,2,1};
-  int n=3;
+  int n=4;
   int ans = towerofhanoi(nums, n);
   cout << ans << endl;
 }
