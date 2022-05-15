@@ -1,6 +1,8 @@
 # DS-Alog-CPP
 Data structures and algorithms in c++
 
+Sometimes unnecessary header files are included, it is because I forgot to check header file when solved next problems. You can simply remove if it is not required :).
+
 
 ## Arrays
 
