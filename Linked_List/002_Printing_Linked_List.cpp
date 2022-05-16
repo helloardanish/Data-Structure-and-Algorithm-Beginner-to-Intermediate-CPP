@@ -1,3 +1,5 @@
+// print a linked list
+
 #include <iostream>
 #include <vector>
 
