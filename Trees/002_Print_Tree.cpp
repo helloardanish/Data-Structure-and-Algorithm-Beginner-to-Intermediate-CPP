@@ -32,6 +32,7 @@ int main(){
   root->childrens.push_back(n1);
   root->childrens.push_back(n2);
 
+  printTrees(root);
 
   cout << endl;
 }
