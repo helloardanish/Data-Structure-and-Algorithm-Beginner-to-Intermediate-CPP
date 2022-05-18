@@ -15,8 +15,15 @@ class TreeNode{
 };
 
 void printTrees(TreeNode<int> * root){
-  cout << root->data << " : " << endl;
+  if(root==NULL){
+    return;
+  }
+  cout << root->data << " : " ;
 
+  for(int i=0; i<root->childrens.size(); i++){
+    cout << root->childrens[i]->data << " ";
+  }
+  cout << endl;
   for(int i=0; i<root->childrens.size(); i++){
     printTrees(root->childrens[i]);
   }
