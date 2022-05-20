@@ -1,4 +1,4 @@
-// count no of nodes recursively
+// count no of nodes iteratively using queue
 
 
 #include <iostream>
