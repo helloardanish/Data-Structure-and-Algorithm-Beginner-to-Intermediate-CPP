@@ -41,5 +41,7 @@ int main(){
   cout << "root node " << root->data << endl;
   cout << "left child " << root->left->data << endl;
   cout << "right child " << root->right->data << endl;
+  delete root;
+  
   return 0;
 }
