@@ -1,4 +1,4 @@
-// print Binary search tree recursively
+// print Binary tree recursively
 
 
 #include <iostream>
