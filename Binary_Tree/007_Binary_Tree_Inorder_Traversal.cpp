@@ -22,9 +22,9 @@ class Solution {
 public:
     void inOrder(TreeNode* root, vector<int> &ans){
         if(root==NULL) return;
-        inOrder(root->left, ans);
-        ans.push_back(root->val);
-        inOrder(root->right, ans);
+        inOrder(root->left, ans); //left
+        ans.push_back(root->val); //data
+        inOrder(root->right, ans); //right
     }
     
     vector<int> inorderTraversal(TreeNode* root) {
