@@ -23,9 +23,9 @@ class Solution {
 public:
     void preOrder(TreeNode * root, vector<int> &ans){
         if(root==NULL) return;
-        ans.push_back(root->val);
-        preOrder(root->left, ans);
-        preOrder(root->right, ans);
+        ans.push_back(root->val); //data
+        preOrder(root->left, ans); //left
+        preOrder(root->right, ans); //right
     }
     
     vector<int> preorderTraversal(TreeNode* root) {
