@@ -141,13 +141,13 @@ int minimumData(BTNode<int> * root){
   return min(root->data, min(leftMin, rightMin));
 }
 
-void minimumDataOtherWay(BTNode<int> * root, &ans){
+void minimumDataOtherWay(BTNode<int> * root, int &ans){
   if(root==NULL){
     return;
   }
   ans = min(ans, root->data);
-  int leftMin = minimumData(root->left, ans);
-  int rightMin = minimumData(root->right, ans);
+  minimumDataOtherWay(root->left, ans);
+  minimumDataOtherWay(root->right, ans);
 }
 
 int main(){
