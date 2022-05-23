@@ -141,32 +141,32 @@ int minimumData(BTNode<int> * root){
   return min(root->data, min(leftMin, rightMin));
 }
 
-int minimumDataOtherWay(BTNode<int> * root, &ans){
+void minimumDataOtherWay(BTNode<int> * root, int &ans){
   if(root==NULL){
     return;
   }
   ans = min(ans, root->data);
-  int leftMin = minimumData(root->left, ans);
-  int rightMin = minimumData(root->right, ans);
+  minimumDataOtherWay(root->left, ans);
+  minimumDataOtherWay(root->right, ans);
 }
 
 int maximumData(BTNode<int> * root){
   if(root==NULL){
     return INT_MIN;
   }
-  int leftMin = minimumData(root->left);
-  int rightMin = minimumData(root->right);
+  int leftMin = maximumData(root->left);
+  int rightMin = maximumData(root->right);
 
   return max(root->data, max(leftMin, rightMin));
 }
 
-void maximumDataOtherWay(BTNode<int> * root, &ans){
+void maximumDataOtherWay(BTNode<int> * root, int &ans){
   if(root==NULL){
     return;
   }
   ans = max(ans, root->data);
-  int leftMin = minimumData(root->left, ans);
-  int rightMin = minimumData(root->right, ans);
+  maximumDataOtherWay(root->left, ans);
+  maximumDataOtherWay(root->right, ans);
 }
 
 int main(){
