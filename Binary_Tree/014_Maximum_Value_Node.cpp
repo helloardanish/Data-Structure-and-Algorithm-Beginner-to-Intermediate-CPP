@@ -160,7 +160,7 @@ int maximumData(BTNode<int> * root){
   return max(root->data, max(leftMin, rightMin));
 }
 
-int maximumDataOtherWay(BTNode<int> * root, &ans){
+void maximumDataOtherWay(BTNode<int> * root, &ans){
   if(root==NULL){
     return;
   }
