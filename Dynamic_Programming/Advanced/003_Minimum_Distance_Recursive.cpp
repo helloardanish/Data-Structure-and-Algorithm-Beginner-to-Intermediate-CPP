@@ -27,6 +27,6 @@ public:
     }
     
     int minDistance(string s1, string s2) {
-        return mD(word1, word1.size(), word2, word2.size());
+        return mD(s1, s1.size(), s2, s2.size());
     }
 };
