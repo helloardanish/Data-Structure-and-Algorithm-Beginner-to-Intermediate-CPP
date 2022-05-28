@@ -1,5 +1,14 @@
-// Print using BFS
+## Print using BFS
 
+
+##### Graph structure
+
+[Graph Structure](/src/images/autodraw_5_28_2022.png)
+
+![Graph Pictures](./src/images/autodraw_5_28_2022.png)
+
+
+```cpp
 #include <iostream>
 #include <queue>
 
@@ -61,8 +70,10 @@ int main(){
 }
 
 
+*/
 
-/*Input and output
+
+Input and output
 
 8
 13
@@ -97,5 +108,3 @@ Print Using BFS:
 7
 3
 4
-
-*/
