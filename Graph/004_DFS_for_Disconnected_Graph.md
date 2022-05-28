@@ -2,7 +2,7 @@
 
 #### Idea: Iterate over the visited array to check if all the index has been visited or not. If not call the fucntion for that index.
 
-![Disconnected Graph](src/images/dfs_disconnected_graph.png)
+![Disconnected Graph](/src/images/dfs_disconnected_graph.png)
 
 ## Solution
 
