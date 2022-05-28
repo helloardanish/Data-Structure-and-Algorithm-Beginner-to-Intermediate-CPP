@@ -1,4 +1,4 @@
-## DFS For Disconnected Grpah
+## BFS For Disconnected Grpah
 
 #### Idea: Iterate over the visited array to check if all the index has been visited or not. If not call the fucntion for that index.
 
