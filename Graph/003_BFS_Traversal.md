@@ -3,9 +3,8 @@
 
 ##### Graph structure
 
-[Graph Structure](/src/images/autodraw_5_28_2022.png)
 
-![Graph Pictures](./src/images/autodraw_5_28_2022.png)
+![Graph Pictures](/src/images/autodraw_5_28_2022.png)
 
 
 ```cpp
