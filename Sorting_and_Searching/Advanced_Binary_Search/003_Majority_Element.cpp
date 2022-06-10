@@ -1,3 +1,5 @@
+// Majority Element
+
 /*
 https://leetcode.com/problems/majority-element/
 */
@@ -37,6 +39,7 @@ int main(){
 
 
 /*
+
 Since it is already given one majority element is already there. We have to assume our output will return one majority.
 We can also add extra check if we want.
 */
@@ -81,3 +84,29 @@ int main(){
   cout << ans;
   cout << endl;
 }
+
+
+
+// Boyer-Moore Voting Algorithm
+
+
+class Solution {
+public:
+    int majorityElement(vector<int>& nums) {
+          int maj = nums[0];
+          int count=0;
+
+          for(int ele:nums){
+            if(ele==maj){
+              count++;
+            }else{
+              count--;
+              if(count==0){
+                maj = ele;
+                count=1;
+              }
+            }
+          }
+          return maj;
+    }
+};
