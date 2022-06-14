@@ -29,6 +29,13 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 |977 | [Squares of a Sorted Array : O(n) time](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./Arrays/SquaresofaSortedArray2.cpp) |Easy |
 
 
+# Binary Search Tree
+
+| # | Title           |  Solution       |
+| ---------------- | ---------------- | --------------- |
+| 1 |[Search a key in Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [C++](./Binary_Search_Tree/001_Search_a_key_BST.cpp) |
+
+
 ## Stack and Queue
 
 |  #  | Title           |  Solution       | Difficulty    | 
