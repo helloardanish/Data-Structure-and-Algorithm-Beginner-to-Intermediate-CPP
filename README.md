@@ -79,6 +79,36 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 | 1 | Bit Manipulation Introduction | [C++](./Bit_Manipulation/001_Bit_Intro.md) |
 | 2 | Check If Given Number Is Odd or Even Using Bitwise Operators | [C++](./Bit_Manipulation/002_Check_Odd_or_Even.cpp) |
 
+# Cache
+
+| # | Title           |  Solution       |
+| ---------------- | ---------------- | --------------- |
+| 1 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](./Cache/001_LRU_Cache.cpp) |
+
+
+# Complexity
+
+| # | Title           |  Solution       |
+| ---------------- | ---------------- | --------------- |
+| 1 | Big O Cheatsheet | [C++](./Complexity/bio-o-cheatsheet.md) |
+| 2 | Passing Array As Input | [C++](./Complexity/finaAStringInArray.cpp) |
+| 3 | Calculate Time Taken In Prohram Using Chrono | [C++](./Complexity/time_taken_in_program_chrono.cpp) |
+| 4 | Calculate Time Taken In Prohram Using ctime | [C++](./Complexity/time_taken_in_program_ctime.cpp) |
+
+# Dynamic Programming
+
+| # | Title           |  Solution       |
+| ---------------- | ---------------- | --------------- |
+| 1 | Fibonaci Series Using DP | [C++](./Dynamic_Programming/001_Fibonaci_Series.cpp) |
+| 2 | Minimum Steps To Rach A Number To 1 | [C++](./Dynamic_Programming/002_Minimum_Steps_to_Reach_1_Brute_Force.cpp) |
+| 3 | Minimum Steps To Rach A Number Using Memorization | [C++](./Dynamic_Programming/003_Minimum_Steps_to_Reach_1_Memorization.cpp) |
+| 4 | Minimum Steps To Rach A Number Using Bottom Up Approach | [C++](./Dynamic_Programming/004_Minimum_Steps_to_Reach_1_Bottom_Up.cpp) |
+| 5 | [Climbing Stairs Using Recursion](https://leetcode.com/problems/climbing-stairs/) | [C++](./Dynamic_Programming/005_Climbing_Stairs_Recursive.cpp) |
+| 6 | [Climbing Stairs Using DP](https://leetcode.com/problems/climbing-stairs/) | [C++](./Dynamic_Programming/006_Climbing_Stairs_DP.cpp) |
+| 7 | [Climbing Stairs Using DP Generalized](https://leetcode.com/problems/climbing-stairs/) | [C++](./Dynamic_Programming/007_Climbing_Stairs_DP_Generalized.cpp) |
+
+
+
 
 ## Stack and Queue
 
