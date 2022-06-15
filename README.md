@@ -106,19 +106,15 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 | 5 | [Climbing Stairs Using Recursion](https://leetcode.com/problems/climbing-stairs/) | [C++](./Dynamic_Programming/005_Climbing_Stairs_Recursive.cpp) |
 | 6 | [Climbing Stairs Using DP](https://leetcode.com/problems/climbing-stairs/) | [C++](./Dynamic_Programming/006_Climbing_Stairs_DP.cpp) |
 | 7 | [Climbing Stairs Using DP Generalized](https://leetcode.com/problems/climbing-stairs/) | [C++](./Dynamic_Programming/007_Climbing_Stairs_DP_Generalized.cpp) |
-
-# Dynamic Programming Advanced
-
-| # | Title           |  Solution       |
-| ---------------- | ---------------- | --------------- |
-| 1 | [Longest Common Subsequence (Recursive)](https://leetcode.com/problems/longest-common-subsequence/) | [C++](./Dynamic_Programming/Advanced/001_Longest_Common_Subsequence_Recursive.cpp) |
-| 2 | [Longest Common Subsequence (DP)](https://leetcode.com/problems/longest-common-subsequence/) | [C++](./Dynamic_Programming/Advanced/002_Longest_Common_Subsequence_DP.cpp) |
-| 3 | [Edit Distance(Recursive)](https://leetcode.com/problems/edit-distance/) | [C++](./Dynamic_Programming/Advanced/003_Minimum_Distance_Recursive.cpp) |
-| 4 | [Edit Distance(DP)](https://leetcode.com/problems/edit-distance/) | [C++](./Dynamic_Programming/Advanced/004_Minimum_Distance_DP.cpp) |
-| 5 | [0-1 Knapsack(Recursive)](https://www.interviewbit.com/problems/0-1-knapsack/) | [C++](./Dynamic_Programming/Advanced/005_Knapsack_Recursive.cpp) |
-| 6 | [0-1 Knapsack(DP)](https://www.interviewbit.com/problems/0-1-knapsack/) | [C++](./Dynamic_Programming/Advanced/006_Knapsack_DP.cpp) |
-
-
+|  |  |  |
+|  | Advanced | Advanced |
+|  |  |  |
+| 8 | [Longest Common Subsequence (Recursive)](https://leetcode.com/problems/longest-common-subsequence/) | [C++](./Dynamic_Programming/Advanced/001_Longest_Common_Subsequence_Recursive.cpp) |
+| 9 | [Longest Common Subsequence (DP)](https://leetcode.com/problems/longest-common-subsequence/) | [C++](./Dynamic_Programming/Advanced/002_Longest_Common_Subsequence_DP.cpp) |
+| 10 | [Edit Distance(Recursive)](https://leetcode.com/problems/edit-distance/) | [C++](./Dynamic_Programming/Advanced/003_Minimum_Distance_Recursive.cpp) |
+| 11 | [Edit Distance(DP)](https://leetcode.com/problems/edit-distance/) | [C++](./Dynamic_Programming/Advanced/004_Minimum_Distance_DP.cpp) |
+| 12 | [0-1 Knapsack(Recursive)](https://www.interviewbit.com/problems/0-1-knapsack/) | [C++](./Dynamic_Programming/Advanced/005_Knapsack_Recursive.cpp) |
+| 13 | [0-1 Knapsack(DP)](https://www.interviewbit.com/problems/0-1-knapsack/) | [C++](./Dynamic_Programming/Advanced/006_Knapsack_DP.cpp) |
 
 # Graph
 
@@ -160,23 +156,32 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 | 5 | Calculate The Length Of A Given Linked List | [C++](./Linked_List/005_Length_of_Linked_List.cpp) |
 | 6 | Print nth Given Node In Linked List | [C++](./Linked_List/006_Print_nth_Node.cpp) |
 | 7 | Insert A Data In ith Position In Linked List | [C++](./Linked_List/007_Insert_ith_Node_Linked_List.cpp) |
-| 8 | []() | [C++](./Linked_List/) |
-| 9 | []() | [C++](./Linked_List/) |
-| 10 | []() | [C++](./Linked_List/) |
-| 11 | []() | [C++](./Linked_List/) |
-| 12 | []() | [C++](./Linked_List/) |
-| 13 | []() | [C++](./Linked_List/) |
-| 14 | []() | [C++](./Linked_List/) |
-| 15 | []() | [C++](./Linked_List/) |
-| 16 | []() | [C++](./Linked_List/) |
-| 17 | []() | [C++](./Linked_List/) |
-| 18 | []() | [C++](./Linked_List/) |
-| 19 | []() | [C++](./Linked_List/) |
-| 20 | []() | [C++](./Linked_List/) |
-| 21 | []() | [C++](./Linked_List/) |
-
-
-
+| 8 | Insert A Data In ith Position In Linked List(Another way) | [C++](./Linked_List/008_Insert_ith_Node_Linked_List2.cpp) |
+| 9 | Delete ith Node From Linked List | [C++](./Linked_List/009_Delete_ith_Node_Linked_List.cpp) |
+| 10 | Delete The ith Node But Also Fix The Memory Leak For The Deleted Data | [C++](./Linked_List/) |
+| 11 | Length of Linked List (Recursive) | [C++](./Linked_List/011_Length_Recursive_Linked_List.cpp) |
+| 12 | Search A Node In Linked List | [C++](./Linked_List/012_Search_in_Linked_List.cpp) |
+| 13 | Search A Node In Linked List (Recursive) | [C++](./Linked_List/013_Search_in_Linked_List_Recursive.cpp) |
+| 14 | Find Middle of The Linked List | [C++](./Linked_List/014_Middle_of_The_Linked_List.cpp) |
+| 15 | Find Middle of The Linked List (Another Way) | [C++](./Linked_List/015_Middle_of_the_Linked_List2.cpp) |
+| 16 | Reverse The Given Linked List | [C++](./Linked_List/016_Reverse_A_Linked_List.cpp) |
+| 17 | [Reverse The Given Linked List (Another Way)](https://leetcode.com/problems/reverse-linked-list/) | [C++](./Linked_List/017_Reverse_A_Linked_List2.cpp) |
+| 18 | [Remove Nth Node From End of List (Single Pass Only)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./Linked_List/018_Remove_Nth_Node_From_End_of_List.cpp) |
+| 19 | Merge Two Sorted Linked List Into One | [C++](./Linked_List/019_Merge_Two_Sorted_List.cpp) |
+| 20 | [Merge Two Sorted Linked List Into One (Another Way)](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./Linked_List/020_Merge_Two_Sorted_List2.cpp) |
+| 21 | [Merge Two Sorted Linked List Into One (Recursively)](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./Linked_List/021_Merge_Two_Sorted_Linked_List_Recursively3.cpp) |
+| 22 | [Sort A Linked List (Merge Sort)](https://leetcode.com/problems/sort-list/) | [C++](./Linked_List/022_Sort_A_Linked_List.cpp) |
+| ## | [Make The Last Node of A Head As First Node]() | [C++](./Linked_List/099_Make_Last_Node_As_Head_and_Traverse_Linked_List.cpp) |
+|  |  |  |
+|  |  Extra | Extra  |
+|  |  |  |
+| 23 | Doubly Linked List Implementation | [C++](./Linked_List/001_Doubly_Linked_List.cpp) |
+| 24 | Circular Linked List Implementation | [C++](./Linked_List/002_Doubly_Circular_Linked_List.cpp) |
+|  |  |  |
+|  |  Extra | Extra  |
+|  |  |  |
+| 25 | [Circular Singly Linked List Implementation](https://www.geeksforgeeks.org/circular-singly-linked-list-insertion/) | [C++](./Linked_List/002_Circular_Singly_Linked_List.cpp) |
+| 26 | [Josephus Problem](https://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/) | [C++](./Linked_List/003_Josephus_Problem.cpp) |
 
 
 
