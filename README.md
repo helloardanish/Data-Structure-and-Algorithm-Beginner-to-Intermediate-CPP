@@ -44,8 +44,33 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 | 9 | Delete a node in BST | [C++](./Binary_Search_Tree/009_Delete_Node_BST.cpp)|
 | 10 | Covert binary search tree to sorted linked list | [C++](./Binary_Search_Tree/010_Convert_BST_to_Sorted_LL.cpp)|
 | 11 | Balanced BST | [C++](./Binary_Search_Tree/011_Balanced_BST.cpp)|
-| 12 | [AVL Tree Implementation](https://www.programiz.com/dsa/avl-tree
-) | [C++](./Binary_Search_Tree/012_AVL_Tree_Impl.cpp)|
+| 12 | [AVL Tree Implementation](https://www.programiz.com/dsa/avl-tree) | [C++](./Binary_Search_Tree/012_AVL_Tree_Impl.cpp)|
+
+
+# Binary Tree
+
+| # | Title           |  Solution       |
+| ---------------- | ---------------- | --------------- |
+| 1 | Binary Tree Class Structure | [C++](./Binary_Tree/001_Binary_Tree_Introduction.cpp) |
+| 2 | Print Binary Tree Recursively | [C++](./Binary_Tree/002_Print_Recursive_BT.cpp) |
+| 3 | Taking Input Recursively In Binary Tree | [C++](./Binary_Tree/003_Take_Input_Recursively_Binary_Tree.cpp) |
+| 4 | Taking Input In Binary Tree Level Wise | [C++](./Binary_Tree/004_Taking_Input_LevelWise_BT.cpp) |
+| 5 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C++](./Binary_Tree/005_Level_Order_Traversal_BT.cpp) |
+| 6 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C++](./Binary_Tree/006_Count_Complete_Tree_Nodes.cpp) |
+| 7 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./Binary_Tree/007_Binary_Tree_Inorder_Traversal.cpp) |
+| 8 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](./Binary_Tree/008_Binary_Tree_Preorder_Traversal.cpp) |
+| 9 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./Binary_Tree/009_Binary_Tree_Postorder_Traversal.cpp) |
+| 10 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./Binary_Tree/010_Maximum_Depth_of_Binary_Tree.cpp) |
+| 11 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./Binary_Tree/011_Symmetric_Tree.cpp) |
+| 12 | Search If A Key Present In Tree | [C++](./Binary_Tree/012_Search_Data_BT.cpp) |
+| 13 | Minimum Value of A Node In Tree | [C++](./Binary_Tree/013_Minimum_Value_Node.cpp) |
+| 14 | Maximum Value of A Node In Tree | [C++](./Binary_Tree/014_Maximum_Value_Node.cpp) |
+| 15 | Count Leaf Nodes In A Tree | [C++](./Binary_Tree/015_Count_Leaf_Nodes.cpp) |
+| 16 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C++](./Binary_Tree/016_Construct_BT_From_PreOrder_and_InOrder.cpp) |
+| 17 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C++](./Binary_Tree/017_Construct_BT_from_Inorder_and_Postorder_Traversal.cpp) |
+| 18 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C++](./Binary_Tree/018_Diameter_of_Binary_Tree.cpp) |
+| 19 | Print Root To Node Path, If Not Present Print Any Message or -1 | [C++](./Binary_Tree/019_Root_to_Node_Path.cpp) |
+
 
 ## Stack and Queue
 
