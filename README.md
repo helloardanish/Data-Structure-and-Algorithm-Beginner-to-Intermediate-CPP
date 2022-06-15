@@ -72,6 +72,14 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 | 19 | Print Root To Node Path, If Not Present Print Any Message or -1 | [C++](./Binary_Tree/019_Root_to_Node_Path.cpp) |
 
 
+# Bit Manipulation
+
+| # | Title           |  Solution       |
+| ---------------- | ---------------- | --------------- |
+| 1 | Bit Manipulation Introduction | [C++](./Bit_Manipulation/001_Bit_Intro.md) |
+| 2 | Check If Given Number Is Odd or Even Using Bitwise Operators | [C++](./Bit_Manipulation/002_Check_Odd_or_Even.cpp) |
+
+
 ## Stack and Queue
 
 |  #  | Title           |  Solution       | Difficulty    | 
