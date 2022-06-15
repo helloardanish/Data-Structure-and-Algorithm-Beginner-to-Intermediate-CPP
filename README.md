@@ -108,6 +108,24 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 | 7 | [Climbing Stairs Using DP Generalized](https://leetcode.com/problems/climbing-stairs/) | [C++](./Dynamic_Programming/007_Climbing_Stairs_DP_Generalized.cpp) |
 
 
+# Graph
+
+| # | Title           |  Solution       |
+| ---------------- | ---------------- | --------------- |
+| 1 | Adjacency Matrix | [C++](./Graph/001_Adjacency_Matrix.cpp) |
+| 2 | Print Graph Using DFS | [C++](./Graph/002_DFS_Traversal.cpp) |
+| 3 | Print Graph Using BFS | [C++](./Graph/003_BFS_Traversal.md) |
+| 4 | Print Disconnected Graph Using DFS | [C++](./Graph/004_DFS_for_Disconnected_Graph.md) |
+| 5 | Print Disconnected Graph Using BFS | [C++](./Graph/005_BFS_for_Disconnected_Graph.md) |
+| 6 | No of Connected Compenent of A Graph Using DFS | [C++](./Graph/006_No_of_Connected_Component_DFS.md) |
+| 7 | No of Connected Compenent of A Graph Using BFS | [C++](./Graph/007_No_of_Connected_Component_BFS.md) |
+| 8 | Disjoint Set To Detect Cycle In A Graph and Find Path With No Cycle | [C++](./Graph/008_Disjoint_Set.cpp) |
+| 9 | [Kruskal Code For Minimum Spanning Tree](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-using-stl-in-c/) | [C++](./Graph/009_Kruskal_Code.cpp) |
+| 10 | [Prims Minimum Spanning Tree Code](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/) | [C++](./Graph/010_Prims_MST.cpp) |
+| 11 | [Commutable Islands](https://www.interviewbit.com/problems/commutable-islands/) | [C++](./Graph/011_Commutable_Islands.cpp) |
+| 12 | [Topological Sort](https://www.geeksforgeeks.org/topological-sorting/) | [C++](./Graph/012_Topological_Sort.cpp) |
+
+
 
 
 ## Stack and Queue
