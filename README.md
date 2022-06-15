@@ -107,6 +107,18 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 | 6 | [Climbing Stairs Using DP](https://leetcode.com/problems/climbing-stairs/) | [C++](./Dynamic_Programming/006_Climbing_Stairs_DP.cpp) |
 | 7 | [Climbing Stairs Using DP Generalized](https://leetcode.com/problems/climbing-stairs/) | [C++](./Dynamic_Programming/007_Climbing_Stairs_DP_Generalized.cpp) |
 
+# Dynamic Programming Advanced
+
+| # | Title           |  Solution       |
+| ---------------- | ---------------- | --------------- |
+| 1 | [Longest Common Subsequence (Recursive)](https://leetcode.com/problems/longest-common-subsequence/) | [C++](./Dynamic_Programming/Advanced/001_Longest_Common_Subsequence_Recursive.cpp) |
+| 2 | [Longest Common Subsequence (DP)](https://leetcode.com/problems/longest-common-subsequence/) | [C++](./Dynamic_Programming/Advanced/002_Longest_Common_Subsequence_DP.cpp) |
+| 3 | [Edit Distance(Recursive)](https://leetcode.com/problems/edit-distance/) | [C++](./Dynamic_Programming/Advanced/003_Minimum_Distance_Recursive.cpp) |
+| 4 | [Edit Distance(DP)](https://leetcode.com/problems/edit-distance/) | [C++](./Dynamic_Programming/Advanced/004_Minimum_Distance_DP.cpp) |
+| 5 | [0-1 Knapsack(Recursive)](https://www.interviewbit.com/problems/0-1-knapsack/) | [C++](./Dynamic_Programming/Advanced/005_Knapsack_Recursive.cpp) |
+| 6 | [0-1 Knapsack(DP)](https://www.interviewbit.com/problems/0-1-knapsack/) | [C++](./Dynamic_Programming/Advanced/006_Knapsack_DP.cpp) |
+
+
 
 # Graph
 
@@ -124,6 +136,39 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 | 10 | [Prims Minimum Spanning Tree Code](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/) | [C++](./Graph/010_Prims_MST.cpp) |
 | 11 | [Commutable Islands](https://www.interviewbit.com/problems/commutable-islands/) | [C++](./Graph/011_Commutable_Islands.cpp) |
 | 12 | [Topological Sort](https://www.geeksforgeeks.org/topological-sorting/) | [C++](./Graph/012_Topological_Sort.cpp) |
+
+
+# Hashmap
+
+|  #  | Title           |  Solution       |
+|-----|---------------- | --------------- |
+| 1 | Hashmap Intro | [C++](./HashMap/001_Hashmap_Intro.cpp) |
+| 2 | Remove Duplicates In A Given Array | [C++](./HashMap/002_Remove_Duplicates.cpp) |
+| 3 | Iterators | [C++](./HashMap/003_Iterators.cpp) |
+| 4 | Hashmap Insert Implementation | [C++](./HashMap/004_Hashmap_Insert_Impl.cpp) |
+| 5 | Hashmap Delete & Search Implementation | [C++](./HashMap/005_Hashmap_Delete_and_Search_Impl.cpp) |
+| 6 | Rehashing | [C++](./HashMap/006_Rehashing.cpp) |
+
+# Linked List
+
+|  #  | Title           |  Solution       |
+|-----|---------------- | --------------- |
+| 1 | []() | [C++](./) |
+| 2 | []() | [C++](./) |
+| 3 | []() | [C++](./) |
+| 4 | []() | [C++](./) |
+| 5 | []() | [C++](./) |
+| 6 | []() | [C++](./) |
+| 7 | []() | [C++](./) |
+| 8 | []() | [C++](./) |
+| 9 | []() | [C++](./) |
+| 10 | []() | [C++](./) |
+| 11 | []() | [C++](./) |
+| 12 | []() | [C++](./) |
+| 13 | []() | [C++](./) |
+| 14 | []() | [C++](./) |
+| 15 | []() | [C++](./) |
+
 
 
 
