@@ -34,7 +34,18 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 | # | Title           |  Solution       |
 | ---------------- | ---------------- | --------------- |
 | 1 |[Search a key in Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [C++](./Binary_Search_Tree/001_Search_a_key_BST.cpp) |
-
+| 2 | Minimum value in BST | [C++](./Binary_Search_Tree/002_Min_in_BST.cpp)|
+| 3 | Maximum value in BST | [C++](./Binary_Search_Tree/003_Max_in_BST.cpp)|
+| 4 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++](./Binary_Search_Tree/004_Range_Sum_of_BST.cpp)|
+| 5 | [Check if given tree is BST or not](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](./Binary_Search_Tree/005_Validate_Binary_Search_Tree.cpp)|
+| 6 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./Binary_Search_Tree/006_Convert_Sorted_Array_to_BST.cpp)|
+| 7 | BST Basic implementation | [C++](./Binary_Search_Tree/007_BST_Implementation.cpp)|
+| 8 | Insert Data in BST | [C++](./Binary_Search_Tree/008_BST_Insert_Node.cpp)|
+| 9 | Delete a node in BST | [C++](./Binary_Search_Tree/009_Delete_Node_BST.cpp)|
+| 10 | Covert binary search tree to sorted linked list | [C++](./Binary_Search_Tree/010_Convert_BST_to_Sorted_LL.cpp)|
+| 11 | Balanced BST | [C++](./Binary_Search_Tree/011_Balanced_BST.cpp)|
+| 12 | [AVL Tree Implementation](https://www.programiz.com/dsa/avl-tree
+) | [C++](./Binary_Search_Tree/012_AVL_Tree_Impl.cpp)|
 
 ## Stack and Queue
 
