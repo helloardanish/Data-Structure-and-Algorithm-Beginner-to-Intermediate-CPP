@@ -153,21 +153,28 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 
 |  #  | Title           |  Solution       |
 |-----|---------------- | --------------- |
-| 1 | []() | [C++](./) |
-| 2 | []() | [C++](./) |
-| 3 | []() | [C++](./) |
-| 4 | []() | [C++](./) |
-| 5 | []() | [C++](./) |
-| 6 | []() | [C++](./) |
-| 7 | []() | [C++](./) |
-| 8 | []() | [C++](./) |
-| 9 | []() | [C++](./) |
-| 10 | []() | [C++](./) |
-| 11 | []() | [C++](./) |
-| 12 | []() | [C++](./) |
-| 13 | []() | [C++](./) |
-| 14 | []() | [C++](./) |
-| 15 | []() | [C++](./) |
+| 1 | Linked List Basic | [C++](./Linked_List/001_Linked_List_Basic.cpp) |
+| 2 | Print A Linked List | [C++](./Linked_List/002_Printing_Linked_List.cpp) |
+| 3 | Taking Inputs From Users In Linked List | [C++](./Linked_List/003_Taking_inputs_Linked_List.cpp) |
+| 4 | Insert At Head In Linked List | [C++](./Linked_List/004_Insert_at_Head_in_Linked_List.cpp) |
+| 5 | Calculate The Length Of A Given Linked List | [C++](./Linked_List/005_Length_of_Linked_List.cpp) |
+| 6 | Print nth Given Node In Linked List | [C++](./Linked_List/006_Print_nth_Node.cpp) |
+| 7 | Insert A Data In ith Position In Linked List | [C++](./Linked_List/007_Insert_ith_Node_Linked_List.cpp) |
+| 8 | []() | [C++](./Linked_List/) |
+| 9 | []() | [C++](./Linked_List/) |
+| 10 | []() | [C++](./Linked_List/) |
+| 11 | []() | [C++](./Linked_List/) |
+| 12 | []() | [C++](./Linked_List/) |
+| 13 | []() | [C++](./Linked_List/) |
+| 14 | []() | [C++](./Linked_List/) |
+| 15 | []() | [C++](./Linked_List/) |
+| 16 | []() | [C++](./Linked_List/) |
+| 17 | []() | [C++](./Linked_List/) |
+| 18 | []() | [C++](./Linked_List/) |
+| 19 | []() | [C++](./Linked_List/) |
+| 20 | []() | [C++](./Linked_List/) |
+| 21 | []() | [C++](./Linked_List/) |
+
 
 
 
