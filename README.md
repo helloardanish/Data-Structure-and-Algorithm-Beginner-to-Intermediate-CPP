@@ -3,8 +3,43 @@ Data structures and algorithms in c++
 
 Sometimes unnecessary header files are included, it is because I forgot to check header file when solved next problems. You can simply remove if it is not required :).
 
+# Please follow to learn topic in below order to get most of it. 
+If you have basic knowledge of any data structures. You can directly go to section then.
 
-## Arrays
+## For Building Fundamentals
+
+* ### Time and Space Complexity (Basics must know before start)
+* ### Arrays
+* ### Bit Manipulation (Can be skipped too)
+* ### Character Array (Strings)
+* ### String
+* ### Matrix  or 2D Array
+* ### Oops Concepts
+* ### Vectors
+* ### Sorting and Searching
+* ### Recursion
+* ### Merge Sort and Quick Sort
+
+## Data Structures
+
+* #### Linked List
+* #### Stacks
+* #### Queues
+* #### Trees
+* #### Binary Tree
+* #### Binary Search Tree
+* #### Hashmap
+* #### Priority Queue
+* #### Dynamic Programming
+* #### Graph
+* #### Minimum Spanning Tree
+* #### Topological Sort (Algorithm)
+* #### Trie
+* #### Cache (LRU)
+
+
+
+# Arrays
 
 |  #  | Title           |  Solution       | Difficulty    | 
 |-----|---------------- | --------------- | ------------- |
