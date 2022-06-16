@@ -8,17 +8,17 @@ If you have basic knowledge of any data structures. You can directly go to secti
 
 ## For Building Fundamentals
 
-* ### Time and Space Complexity (Basics must know before start)
-* ### Arrays
-* ### Bit Manipulation (Can be skipped too)
-* ### Character Array (Strings)
-* ### String
-* ### Matrix  or 2D Array
-* ### Oops Concepts
-* ### Vectors
-* ### Sorting and Searching
-* ### Recursion
-* ### Merge Sort and Quick Sort
+* #### Time and Space Complexity (Basics must know before start)
+* #### Arrays
+* #### Bit Manipulation (Can be skipped too)
+* #### Character Array (Strings)
+* #### String
+* #### Matrix  or 2D Array
+* #### Oops Concepts
+* #### Vectors
+* #### Sorting and Searching
+* #### Recursion
+* #### Merge Sort and Quick Sort
 
 ## Data Structures
 
