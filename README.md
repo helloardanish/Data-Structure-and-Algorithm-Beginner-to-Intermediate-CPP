@@ -299,6 +299,28 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 | 3 | Using Templates With Multiple Data Types | [C++](./Templates/003_Templates_Multiple_Data_Types.cpp) |
 | 4 | Using Templates In Pair Triplets | [C++](./Templates/004_Templates_Pair_Triplets.cpp) |
 
+# Trees
+
+|  #  | Title           |  Solution       | 
+|-----|---------------- | --------------- |
+| 1 | Tree Introduction and Implementation | [C++](./Trees/001_Introduction_Trees.cpp) |
+| 2 | Print A Tree | [C++](./Trees/002_Print_Tree.cpp) |
+| 3 | Taking Input Recursively In Tree | [C++](./Trees/003_Taking_Input_Recursively_In_Tree.cpp) |
+| 4 | Taking Input Level Wise | [C++](./Trees/004_Taking_Input_Level_Wise.cpp) |
+| 5 | Printing Tree Level Wise | [C++](./Trees/005_Printing_Tree_Level_Wise.cpp) |
+| 6 | Count Total Nodes In A Tree (Recursively) | [C++](./Trees/006_Count_Nodes_Tree_Recursively.cpp) |
+| 7 | Count No of Nodes Iteratively Using Queue | [C++](./Trees/007_Count_Total_Nodes_In_Trees_Iterative.cpp) |
+| 8 | Calculate Height of Tree | [C++](./Trees/008_Height_of_Tree.cpp) |
+| 9 | print Nodes At K Level/Depth | [C++](./Trees/009_Print_at_Node_K.cpp) |
+| 10 | Count Leaf Nodes In A Tree | [C++](./Trees/010_CountLeafNodes.cpp) |
+| 11 | Pre Order Traversal of A Tree | [C++](./Trees/011_Pre_Order_Traversal.cpp) |
+| 12 | Post Order Traversal of A Tree | [C++](./Trees/012_Post_Order_Traversal.cpp) |
+| 13 | Delete A Tree | [C++](./Trees/013_Delete_Tree.cpp) |
+| 14 | Deleting a Tree Using Destructor | [C++](./Trees/014_Deleting_Tree_Using_Destructor.cpp) |
+
+
+
+
 
 <!--
 | | []() | [C++](./Arrays/) | |
