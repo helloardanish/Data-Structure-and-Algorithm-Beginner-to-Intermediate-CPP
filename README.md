@@ -250,7 +250,6 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 |  |  |  |
 |  | Advanced | Advanced |
 |  |  |  |
-001_First_and_Last_Occurence.cpp
 | 7 | [find First and Last Index of An Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [C++](./Sorting_and_Searching/001_First_and_Last_Occurence.cpp) |
 | 8 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./Sorting_and_Searching/002_Search_In_Rotated_Sorted_Array.cpp) |
 | 9 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./Sorting_and_Searching/003_Majority_Element.cpp) |
