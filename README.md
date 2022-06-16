@@ -19,14 +19,37 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 | 9 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [C++](./Arrays/ValidMountainArray.cpp) | Easy|
 | 10 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [C++](./Arrays/ReplaceElementswithGreatestElementonRightSide.cpp) |Easy |
 | 11 | [Remove Duplicates from Sorted Array 2(Returning array too)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Arrays/RemoveDuplicatesfromSortedArray.cpp) |Easy |
-|283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./Arrays/MoveZeroes.cpp) | Easy|
-| 12 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [C++](./Arrays/SortArrayByParity.cpp) | Easy|
-| 13| [Remove Element 2 Pointer](https://leetcode.com/problems/remove-element/) | [C++](./Arrays/RemoveElement2.cpp) |Easy |
-| 14 | [Height Checker](https://leetcode.com/problems/height-checker/) | [C++](./Arrays/HeightChecker.cpp) | Easy|
-| 15 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./Arrays/ThirdMaximumNumber.cpp) | Easy|
+| 12 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./Arrays/MoveZeroes.cpp) | Easy|
+| 13 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [C++](./Arrays/SortArrayByParity.cpp) | Easy|
+| 14| [Remove Element 2 Pointer](https://leetcode.com/problems/remove-element/) | [C++](./Arrays/RemoveElement2.cpp) |Easy |
+| 15 | [Height Checker](https://leetcode.com/problems/height-checker/) | [C++](./Arrays/HeightChecker.cpp) | Easy|
+| 16 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./Arrays/ThirdMaximumNumber.cpp) | Easy|
 | #AR| Third Largest From The Beginning | [C++](./Arrays/ThirdMaximumFromBeginning.cpp) | Easy|
-| 16 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./Arrays/FindAllNumbersDisappearedinanArray.cpp) |Easy |
-| 17 | [Squares of a Sorted Array : O(n) time](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./Arrays/SquaresofaSortedArray2.cpp) |Easy |
+| 17 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./Arrays/FindAllNumbersDisappearedinanArray.cpp) |Easy |
+| 18 | [Squares of a Sorted Array : O(n) time](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./Arrays/SquaresofaSortedArray2.cpp) |Easy |
+
+
+# Basics Revise (Reference)
+
+| # | Title           |  Solution       |
+| ---------------- | ---------------- | --------------- |
+| 1 | Delete First Element Of Array | [C++](./BasicRevise/) |
+| 2 | Enumeration Explanation | [C++](./BasicRevise/enumexplain.cpp) |
+| 3 | Graph Basics | [C++](./BasicRevise/graphbasic.cpp) |
+| 4 | Hash Table Basics | [C++](./BasicRevise/hashtablebasic.cpp) |
+| 5 | Taking Input In Line With or Without Space | [C++](./BasicRevise/inputinlinewithspace.cpp) |
+| 6 | Taking Input In Line With or Without Space (Second Way) | [C++](./BasicRevise/inputinlinewithspace2.cpp) |
+| 7 | Pointers Using Integers | [C++](./BasicRevise/integerpointer.cpp) |
+| 8 | Linked list implementation | [C++](./BasicRevise/linkedlistimp.cpp) |
+| 9 | Difference Between Pre(++i) and Post Increment(i++) | [C++](./BasicRevise/postpreincrementdiff.cpp) |
+| 10 | Queue Basics | [C++](./BasicRevise/queuebasic.cpp) |
+| 11 | Stack Basics | [C++](./BasicRevise/stackbasic.cpp) |
+| 12 | String Literal and C String | [C++](./BasicRevise/stringliteralandcstring.cpp) |
+| 13 | Structure Concept | [C++](./BasicRevise/structuresconcept.cpp) |
+| 14 | Tree Basics | [C++](./BasicRevise/BasicRevise/treebasic.cpp) |
+| 15 | Union Basics | [C++](./BasicRevise/unionbasics.cpp) |
+| 16 | Vector Basics | [C++](./BasicRevise/vector_exp.cpp) |
+
 
 
 # Binary Search Tree
