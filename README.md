@@ -318,7 +318,11 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 | 13 | Delete A Tree | [C++](./Trees/013_Delete_Tree.cpp) |
 | 14 | Deleting a Tree Using Destructor | [C++](./Trees/014_Deleting_Tree_Using_Destructor.cpp) |
 
+# Trie
 
+|  #  | Title           |  Solution       | 
+|-----|---------------- | --------------- |
+| 1 | Trie Introduction & Implementation | [C++](./Trie/001_Trie_Add_and_Search_Words.cpp) |
 
 
 
