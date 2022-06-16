@@ -284,6 +284,21 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 | # | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [C++](./Stack_&_Queue/DesignCircularQueue.cpp) |
 | # | Circular Queue Implementation | [C++](./Stack_&_Queue/CircularQueueImpl.cpp) |
 
+# Strings
+
+|  #  | Title           |  Solution       | 
+|-----|---------------- | --------------- |
+| 1 | String Basic Operations | [C++](./String/001_String_Basics.cpp) |
+
+# Templates
+
+|  #  | Title           |  Solution       | 
+|-----|---------------- | --------------- |
+| 1 | Why Templates (Different Scenario) | [C++](./Templates/001_Why_Templates.cpp) |
+| 2 | Using Templates In Class | [C++](./Templates/002_Using_Templates.cpp) |
+| 3 | Using Templates With Multiple Data Types | [C++](./Templates/003_Templates_Multiple_Data_Types.cpp) |
+| 4 | Using Templates In Pair Triplets | [C++](./Templates/004_Templates_Pair_Triplets.cpp) |
+
 
 <!--
 | | []() | [C++](./Arrays/) | |
