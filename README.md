@@ -256,11 +256,34 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 
 
 
-## Stack and Queue
+## Stack
 
-|  #  | Title           |  Solution       | Difficulty    | 
-|-----|---------------- | --------------- | ------------- |
-| 622.| [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [C++](./Stack_&_Queue/DesignCircularQueue.cpp) | Medium|
+|  #  | Title           |  Solution       | 
+|-----|---------------- | --------------- |
+| 1 | Stack Implementation Using Array | [C++](./Stack_&_Queue/001_Stack_Implementation_Using_Array.cpp) |
+| 2 | Dynamic Stack Implementation Using Array | [C++](./Stack_&_Queue/002_Dynamic_Stack_Using_Array.cpp) |
+| 3 | Stack Implementation Using Vector | [C++](./Stack_&_Queue/003_Stack_Impl_Using_Vector.cpp) |
+| 4 | Stack Implementation Using Array (Templates) | [C++](./Stack_&_Queue/004_Stack_Impl_Templates_Array.cpp) |
+| 5 | Stack Implementation Using Linked List (Generic) | [C++](./Stack_&_Queue/005_Stack_Impl_Using_Linked_List_Generic.cpp) |
+| 6 | Stack (In-Built STL) | [C++](./Stack_&_Queue/006_In_Built_Stack.cpp) |
+| 7 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./Stack_&_Queue/007_Valid_Parentheses.cpp) |
+| 8 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C++](./Stack_&_Queue/008_Evaluate_Reverse_Polish_Notation.cpp) |
+| 9 | Remove All Adjacent Duplicates In String | [C++](./Stack_&_Queue/009_Remove_All_Adjacent_Duplicates_In_String.cpp) |
+| ## | Stack Implementation | [C++](./Stack_&_Queue/StackImpl.cpp) |
+
+# Queue
+
+|  #  | Title           |  Solution       | 
+|-----|---------------- | --------------- |
+| 1 | Queue Implementation Using Array | [C++](./Stack_&_Queue/Queue/001_Queue_Impl_Using_Array.cpp) |
+| 2 | Dynamic Queue Using Array | [C++](./Stack_&_Queue/Queue/002_Dynamic_Queue_Using_Array.cpp) |
+| 3 | Queue Implementation Using Linked List | [C++](./Stack_&_Queue/Queue/003_Queue_Impl_Using_Linked_List.cpp) |
+| 4 | Queue (In-Built STL) | [C++](./Stack_&_Queue/Queue/004_In_Built_Queue.cpp) |
+| 5 | Reverse A Queue | [C++](./Stack_&_Queue/Queue/005_Reverse_A_Queue.cpp) |
+| # | Queue Implementation | [C++](./Stack_&_Queue/Queue/QueueImpl.cpp) |
+| # | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [C++](./Stack_&_Queue/DesignCircularQueue.cpp) |
+| # | Circular Queue Implementation | [C++](./Stack_&_Queue/CircularQueueImpl.cpp) |
+
 
 <!--
 | | []() | [C++](./Arrays/) | |
