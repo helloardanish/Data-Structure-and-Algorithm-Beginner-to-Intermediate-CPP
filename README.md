@@ -184,6 +184,20 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 | 26 | [Josephus Problem](https://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/) | [C++](./Linked_List/003_Josephus_Problem.cpp) |
 
 
+# Priority Queue
+
+|  #  | Title           |  Solution       |
+|-----|---------------- | --------------- |
+| 1 | Priority Queue Basic Implementation | [C++](./Priority_Queue/001_Priority_Queue_Basic_Impl.cpp) |
+| 2 | Remove Minimum Value In Min Heap | [C++](./Priority_Queue/002_Remove_Min_Val_In_Min_Heap.cpp) |
+| 3 | Heap Sort (In-Place) | [C++](./Priority_Queue/003_In_Place_Heap_Sort.cpp) |
+| 4 | Priority Queue (In-Built STL) | [C++](./Priority_Queue/004_Inbuilt_Priority_Queue.cpp) |
+| 5 | Minimum Priority Queue (In-Built) | [C++](./Priority_Queue/005_InBuilt_Min_Priority_Queue.cpp) |
+| 6 | K Smallest Element | [C++](./Priority_Queue/006_K_Smallest_Element.cpp) |
+| 7 | K Sorted Array | [C++](./Priority_Queue/007_K_Sorted_Array.cpp) |
+| 8 | K Smallest Using Minimum Priority Queue | [C++](./Priority_Queue/008_K_Smallest_Using_Min_Priority_Queue.cpp)
+
+
 
 ## Stack and Queue
 
