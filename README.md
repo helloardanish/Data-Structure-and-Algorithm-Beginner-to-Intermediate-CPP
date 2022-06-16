@@ -214,29 +214,46 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 |  |  |  |
 |  | Advanced | Advanced |
 |  |  |  |
-| 11 | Check If Array Is Sorted or Not | [C++](./Recursion/Arrays/001_check_Array_Sorted.cpp) |
-| 12 | Calculate Sum of A Given Array | [C++](./Recursion/Arrays/002_Sum_of_Arr.cpp) |
-| 13 | Check If Given Element Is Present In An Array | [C++](./Recursion/Arrays/003_Check_Elem_In_Arr.cpp) |
-| 14 | Find First Index of The Given Element In An Array | [C++](./Recursion/Arrays/004_First_Index_of_Element_In_Array.cpp) |
-| 15 | Find Last Index of The Given Element In An Array | [C++](./Recursion/Arrays/005_Last_Index_of_Element_In_Array.cpp) |
-| 16 | Print All Position of A Given Element In An Array | [C++](./Recursion/Arrays/006_Print_All_Position_of_Element.cpp) |
-| 17 | Count The Occurence of A Given Element In An Array | [C++](./Recursion/Arrays/007_Count_the_Occurence_of_Element.cpp) |
-| 18 | Store All Position of A Given Element In An Array | [C++](./Recursion/Arrays/008_Store_All_Position_of_Element.cpp) |
-| 19 | Check If A Given Element Is Palindrome | [C++](./Recursion/Arrays/009_Check_Pallindrome.cpp) |
-| 20 | Given A String(Character Array) Print String And Its Reverse  | [C++](./Recursion/Arrays/010_Print_And_Reverse.cpp) |
-| 21 | Length of The Character Array(String) | [C++](../Recursion/Arrays/011_Length_of_Character_Array.cpp) |
-| 22 | Replace Every Character In A String With A Given Character | [C++](./Recursion/Arrays/012_Replace_All_Character.cpp) |
-| 23 | Replace Every Occurrence of A Character To A Given Character In A String | [C++](./Recursion/Arrays/013_Replace_One_Character_To_Another.cpp) |
-| 24 | Remove Given Array From A Character Array (String) | [C++](./Recursion/Arrays/014_Remove_Given_Characters.cpp) |
-| 25 | Given A Character Array Remove Consecutive Duplicates of Any Character | [C++](./Recursion/Arrays/015_Remove_Consecutive_Duplicates.cpp) |
-| 26 | Print All Subsequence of A Given String | [C++](./Recursion/Arrays/016_Print_All_Subsequence_of_A_String.cpp) |
-| 27 | Store All The Subsequence of A String | [C++](./Recursion/Arrays/017_Store_All_Subsequence_of_A_String.cpp) |
-| 28 | Convert A Given String Into An Integer Number | [C++](./Recursion/Arrays/018_Convert_String_to_Integer.cpp) |
-| 29 | Print All Permutation of A String | [C++](./Recursion/Arrays/019_Print_All_Permutation_of_A_String.cpp) |
-| 30 | [Staircase](https://leetcode.com/problems/climbing-stairs/) | [C++](./Recursion/Arrays/020_Staircase_Problem.cpp) |
-| 31 | [Tower of Hanoi](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/) | [C++](./Recursion/Arrays/021_Tower_of_Hanoi.cpp) |
-| 32 | [Print Steps To Solve Tower of Hanoi](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/) | [C++](./Recursion/Arrays/022_Print_Steps_Tower_of_Hanoi.cpp) |
+| 11 | Check If Array Is Sorted or Not | [C++](./Recursion/Arrays/Advanced_Recrusion/001_check_Array_Sorted.cpp) |
+| 12 | Calculate Sum of A Given Array | [C++](./Recursion/Arrays/Advanced_Recrusion/002_Sum_of_Arr.cpp) |
+| 13 | Check If Given Element Is Present In An Array | [C++](./Recursion/Arrays/Advanced_Recrusion/003_Check_Elem_In_Arr.cpp) |
+| 14 | Find First Index of The Given Element In An Array | [C++](./Recursion/Arrays/Advanced_Recrusion/004_First_Index_of_Element_In_Array.cpp) |
+| 15 | Find Last Index of The Given Element In An Array | [C++](./Recursion/Arrays/Advanced_Recrusion/005_Last_Index_of_Element_In_Array.cpp) |
+| 16 | Print All Position of A Given Element In An Array | [C++](./Recursion/Arrays/Advanced_Recrusion/006_Print_All_Position_of_Element.cpp) |
+| 17 | Count The Occurence of A Given Element In An Array | [C++](./Recursion/Arrays/Advanced_Recrusion/007_Count_the_Occurence_of_Element.cpp) |
+| 18 | Store All Position of A Given Element In An Array | [C++](./Recursion/Arrays/Advanced_Recrusion/008_Store_All_Position_of_Element.cpp) |
+| 19 | Check If A Given Element Is Palindrome | [C++](./Recursion/Arrays/Advanced_Recrusion/009_Check_Pallindrome.cpp) |
+| 20 | Given A String(Character Array) Print String And Its Reverse  | [C++](./Recursion/Arrays/Advanced_Recrusion/010_Print_And_Reverse.cpp) |
+| 21 | Length of The Character Array(String) | [C++](../Recursion/Arrays/Advanced_Recrusion/011_Length_of_Character_Array.cpp) |
+| 22 | Replace Every Character In A String With A Given Character | [C++](./Recursion/Arrays/Advanced_Recrusion/012_Replace_All_Character.cpp) |
+| 23 | Replace Every Occurrence of A Character To A Given Character In A String | [C++](./Recursion/Arrays/Advanced_Recrusion/013_Replace_One_Character_To_Another.cpp) |
+| 24 | Remove Given Array From A Character Array (String) | [C++](./Recursion/Arrays/Advanced_Recrusion/014_Remove_Given_Characters.cpp) |
+| 25 | Given A Character Array Remove Consecutive Duplicates of Any Character | [C++](./Recursion/Arrays/Advanced_Recrusion/015_Remove_Consecutive_Duplicates.cpp) |
+| 26 | Print All Subsequence of A Given String | [C++](./Recursion/Arrays/Advanced_Recrusion/016_Print_All_Subsequence_of_A_String.cpp) |
+| 27 | Store All The Subsequence of A String | [C++](./Recursion/Arrays/Advanced_Recrusion/017_Store_All_Subsequence_of_A_String.cpp) |
+| 28 | Convert A Given String Into An Integer Number | [C++](./Recursion/Arrays/Advanced_Recrusion/018_Convert_String_to_Integer.cpp) |
+| 29 | Print All Permutation of A String | [C++](./Recursion/Arrays/Advanced_Recrusion/019_Print_All_Permutation_of_A_String.cpp) |
+| 30 | [Staircase](https://leetcode.com/problems/climbing-stairs/) | [C++](./Recursion/Arrays/Advanced_Recrusion/020_Staircase_Problem.cpp) |
+| 31 | [Tower of Hanoi](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/) | [C++](./Recursion/Arrays/Advanced_Recrusion/021_Tower_of_Hanoi.cpp) |
+| 32 | [Print Steps To Solve Tower of Hanoi](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/) | [C++](./Recursion/Arrays/Advanced_Recrusion/022_Print_Steps_Tower_of_Hanoi.cpp) |
 
+# Sorting & Searching
+
+|  #  | Title           |  Solution       |
+|-----|---------------- | --------------- |
+| 1 | Selection Sort | [C++](./Sorting_and_Searching/001_Selection_sort.cpp) |
+| 2 | Bubble Sort | [C++](./Sorting_and_Searching/002_Bubble_Sort.cpp) |
+| 3 | Linear Search | [C++](./Sorting_and_Searching/003_Linear_Search.cpp) |
+| 4 | Binary Search | [C++](./Sorting_and_Searching/004_Binary_Search.cpp) |
+| 5 | Merge Sort | [C++](./Sorting_and_Searching/005_Merge_Sort.cpp) |
+| 6 | Quick Sort | [C++](./Sorting_and_Searching/006_Quick_Sort.cpp) |
+|  |  |  |
+|  | Advanced | Advanced |
+|  |  |  |
+001_First_and_Last_Occurence.cpp
+| 7 | [find First and Last Index of An Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [C++](./Sorting_and_Searching/001_First_and_Last_Occurence.cpp) |
+| 8 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./Sorting_and_Searching/002_Search_In_Rotated_Sorted_Array.cpp) |
+| 9 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./Sorting_and_Searching/003_Majority_Element.cpp) |
 
 
 
