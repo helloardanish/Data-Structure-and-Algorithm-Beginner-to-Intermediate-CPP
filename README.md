@@ -197,6 +197,47 @@ Sometimes unnecessary header files are included, it is because I forgot to check
 | 7 | K Sorted Array | [C++](./Priority_Queue/007_K_Sorted_Array.cpp) |
 | 8 | K Smallest Using Minimum Priority Queue | [C++](./Priority_Queue/008_K_Smallest_Using_Min_Priority_Queue.cpp)
 
+# Recursion
+
+|  #  | Title           |  Solution       |
+|-----|---------------- | --------------- |
+| 1 | Fibonacci Number | [C++](../Recursion/Arrays/001_Fibonacci_recursive.cpp) |
+| 2 | Sum Upto A Number | [C++](../Recursion/Arrays/002_Sum_upto_a_number.cpp) |
+| 3 | Print Upto A Number | [C++](../Recursion/Arrays/003_Print_upto_a_number.cpp) |
+| 4 | Calculate Power of N | [C++](../Recursion/Arrays/004_Power_of_n.cpp) |
+| 5 | No of Digits In A Number | [C++](../Recursion/Arrays/005_No_of_digit.cpp) |
+| 6 | Sum of Digits of A Number | [C++](../Recursion/Arrays/006_Sum_of_digits.cpp) |
+| 7 | Multiply Two Numbers Without Using * Operator | [C++](../Recursion/Arrays/007_Multiply_Two_Numbers.cpp) |
+| 8 | Count No of Times Zero Appear In A Number | [C++](../Recursion/Arrays/008_Count_Zeros.cpp) |
+| 9 | Calculate Geometric Sum Upto A Given Number | [C++](../Recursion/Arrays/009_Geo_Sum.cpp) |
+| 10 | Reverse A Given Number | [C++](../Recursion/Arrays/010_Reverse_a_Number.cpp) |
+|  |  |  |
+|  | Advanced | Advanced |
+|  |  |  |
+| 11 | Check If Array Is Sorted or Not | [C++](./Recursion/Arrays/001_check_Array_Sorted.cpp) |
+| 12 | Calculate Sum of A Given Array | [C++](./Recursion/Arrays/002_Sum_of_Arr.cpp) |
+| 13 | Check If Given Element Is Present In An Array | [C++](./Recursion/Arrays/003_Check_Elem_In_Arr.cpp) |
+| 14 | Find First Index of The Given Element In An Array | [C++](./Recursion/Arrays/004_First_Index_of_Element_In_Array.cpp) |
+| 15 | Find Last Index of The Given Element In An Array | [C++](./Recursion/Arrays/005_Last_Index_of_Element_In_Array.cpp) |
+| 16 | Print All Position of A Given Element In An Array | [C++](./Recursion/Arrays/006_Print_All_Position_of_Element.cpp) |
+| 17 | Count The Occurence of A Given Element In An Array | [C++](./Recursion/Arrays/007_Count_the_Occurence_of_Element.cpp) |
+| 18 | Store All Position of A Given Element In An Array | [C++](./Recursion/Arrays/008_Store_All_Position_of_Element.cpp) |
+| 19 | Check If A Given Element Is Palindrome | [C++](./Recursion/Arrays/009_Check_Pallindrome.cpp) |
+| 20 | Given A String(Character Array) Print String And Its Reverse  | [C++](./Recursion/Arrays/010_Print_And_Reverse.cpp) |
+| 21 | Length of The Character Array(String) | [C++](../Recursion/Arrays/011_Length_of_Character_Array.cpp) |
+| 22 | Replace Every Character In A String With A Given Character | [C++](./Recursion/Arrays/012_Replace_All_Character.cpp) |
+| 23 | Replace Every Occurrence of A Character To A Given Character In A String | [C++](./Recursion/Arrays/013_Replace_One_Character_To_Another.cpp) |
+| 24 | Remove Given Array From A Character Array (String) | [C++](./Recursion/Arrays/014_Remove_Given_Characters.cpp) |
+| 25 | Given A Character Array Remove Consecutive Duplicates of Any Character | [C++](./Recursion/Arrays/015_Remove_Consecutive_Duplicates.cpp) |
+| 26 | Print All Subsequence of A Given String | [C++](./Recursion/Arrays/016_Print_All_Subsequence_of_A_String.cpp) |
+| 27 | Store All The Subsequence of A String | [C++](./Recursion/Arrays/017_Store_All_Subsequence_of_A_String.cpp) |
+| 28 | Convert A Given String Into An Integer Number | [C++](./Recursion/Arrays/018_Convert_String_to_Integer.cpp) |
+| 29 | Print All Permutation of A String | [C++](./Recursion/Arrays/019_Print_All_Permutation_of_A_String.cpp) |
+| 30 | [Staircase](https://leetcode.com/problems/climbing-stairs/) | [C++](./Recursion/Arrays/020_Staircase_Problem.cpp) |
+| 31 | [Tower of Hanoi](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/) | [C++](./Recursion/Arrays/021_Tower_of_Hanoi.cpp) |
+| 32 | [Print Steps To Solve Tower of Hanoi](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/) | [C++](./Recursion/Arrays/022_Print_Steps_Tower_of_Hanoi.cpp) |
+
+
 
 
 ## Stack and Queue
